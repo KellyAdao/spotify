@@ -1,6 +1,6 @@
 🎵 Spotify Clone
 
-Este repositório apresenta a recriação da página inicial do Spotify na Imersão Front-End da Alura utilizando HTML, CSS e JavaScript. O objetivo deste projeto é aprimorar habilidades em desenvolvimento web, praticando a estruturação de páginas, estilização responsiva e interatividade com JavaScript.
+Este repositório apresenta a recriação da página inicial do Spotify utilizando HTML, CSS e JavaScript. O objetivo deste projeto feito na Imersão Front-End da Alura, é aprimorar habilidades em desenvolvimento web, praticando a estruturação de páginas, estilização responsiva e interatividade com JavaScript.
 
 🚀 Tecnologias Utilizadas
 
@@ -30,8 +30,5 @@ Animações CSS
 
 Manipulação do DOM com JavaScript
 
-📩 Contato
+📩 Instagram @kellycode_!
 
-Caso queira trocar ideias sobre desenvolvimento, me encontre no Instagram @kellycode_!
-
-💚 Projeto feito com dedicação para prática e aprendizado!
