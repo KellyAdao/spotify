@@ -1,35 +1,34 @@
+# 🎵 Spotify Clone
 
-## 🎵 Spotify Clone
+Recriação da página inicial do Spotify utilizando **HTML**, **CSS** e **JavaScript Vanilla**.  
+Projeto desenvolvido durante a **Imersão Front-End da Alura**, com o objetivo de consolidar conhecimentos em desenvolvimento web, praticando a estruturação de interfaces, responsividade e interatividade com código puro.
 
-Este repositório apresenta a recriação da página inicial do Spotify utilizando HTML, CSS e JavaScript. O objetivo deste projeto feito na Imersão Front-End da Alura, é aprimorar habilidades em desenvolvimento web, praticando a estruturação de páginas, estilização responsiva e interatividade com JavaScript.
+---
 
-**🚀 Tecnologias Utilizadas**
+## 🚀 Tecnologias Utilizadas
 
-**HTML5 -** Estrutura do site
+- **HTML5** — Estrutura semântica da página  
+- **CSS3** — Estilização, layout responsivo e animações  
+- **JavaScript Vanilla** — Interatividade sem uso de frameworks
 
-**CSS3** - Estilização e responsividade
+---
 
-**JavaScript** - Interatividade e dinâmica
+## 📌 Funcionalidades
 
-**📌 Funcionalidades Implementadas**
+- 🎧 Interface inspirada na página inicial do Spotify  
+- 📱 Responsividade para diferentes tamanhos de tela  
+- ✨ Animações e transições com CSS  
+- 🖱️ Interações básicas usando JavaScript puro (manipulação do DOM)
 
-Reprodução fiel do layout da página inicial do Spotify
+---
 
-Responsividade para diferentes tamanhos de tela
+## 📚 Aprendizados
 
-Efeitos visuais e animações com CSS
+Com este projeto, aprofundei conhecimentos em:
 
-Pequenas interações utilizando JavaScript.
-
-**📚 Aprendizados**
-
-Este projeto foi uma excelente oportunidade para reforçar conceitos fundamentais de HTML, CSS e JavaScript, trabalhando com:
-
-Flexbox e Grid para layout
-
-Animações CSS
-
-Manipulação do DOM com JavaScript
-
-📩 Instagram **@kellycode_!**
+- Estruturação semântica com HTML  
+- Layouts com **Flexbox** e **CSS Grid**  
+- Criação de animações suaves com **transições e keyframes**  
+- **Manipulação do DOM** com JavaScript Vanilla  
+- Boas práticas de responsividade e organização de código  
 
